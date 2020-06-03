@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\Dell\Desktop\Curso FJ-21\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2366160428.index
+1605748358.index
+1532149616.index
+1532149616.index
+4262579729.index
+456790899.index
+3589709166.index
+488321437.index

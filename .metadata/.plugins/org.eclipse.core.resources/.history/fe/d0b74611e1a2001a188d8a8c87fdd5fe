@@ -1,0 +1,30 @@
+<%@page import="java.util.List, br.com.caelum.gerenciador.servlet.Empresa"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Listagem de Empresas</title>
+</head>
+<body>
+	<%
+		List<Empresa> lista = (List<Empresa>) request.getAttribute("listaEmpresas");
+	%>
+	
+	<ol>
+	
+	<%
+		for (Empresa empresa : lista) {
+	%>
+		<li>
+			<%=empresa.getNome()%>
+		</li>
+	<%
+		}
+	%>
+	
+	</ol>
+	
+</body>
+</html>

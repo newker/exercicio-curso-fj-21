@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+C:\Users\Dell\Desktop\Curso FJ-21\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1532149616.index
+\gerenciador\src
+C:\Users\Dell\Desktop\Curso FJ-21\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3791968881.index
+\fj21-agenda\src
+C:\Users\Dell\Desktop\Curso FJ-21\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3343571615.index
+\fj21-tarefas\src
+C:\Users\Dell\Desktop\Curso FJ-21\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2263163393.index
+\fj21-agenda\src
+C:\Users\Dell\Desktop\Curso FJ-21\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\359640750.index
+\fj21-agenda\src
+C:\Users\Dell\Desktop\Curso FJ-21\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2554076783.index
+\fj21-tarefas\src
+C:\Users\Dell\Desktop\Curso FJ-21\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3419390003.index
+\lojaweb\src\main\resources
